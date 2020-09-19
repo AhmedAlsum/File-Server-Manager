@@ -3,7 +3,7 @@ File Server Manager.
 
 File Server Manager enable user to store and retrieve his files remotely.
 
-The Project will consist of two apps:
+The Project consist of two apps:
 - File Server App: which will store the all received Files in Server.
 - File Client App: which will used to upload or download the file from Previous app.
 The File Client App will be Command Line Application that enable user to  :
